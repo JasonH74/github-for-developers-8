@@ -5,3 +5,4 @@
  - Skyline
  - Reading
  - Favorite color is red
+ - And lastly, have a nice day!
