@@ -4,3 +4,4 @@
  - Cincinnati
  - Skyline
  - Reading
+ - Favorite color is red
